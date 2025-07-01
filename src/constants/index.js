@@ -242,7 +242,7 @@ const testimonials = [
     name: "Albert Flores",
     mentions: "@albertflores",
     review:
-      "Farooq Ahmedwas a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend dev are top-notch.",
+      "Farooq Ahmed was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend dev are top-notch.",
     imgPath: "/images/client6.png",
   },
 ];
